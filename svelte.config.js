@@ -21,7 +21,7 @@ const config = {
 			strict:      true
 		}),
 		paths:   {
-			base: dev ? '' : '/proskillapi'
+			base: dev ? '' : '/fabled'
 		},
 		alias:   {
 			$api:        resolve('./src/api'),
